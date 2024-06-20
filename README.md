@@ -14,7 +14,7 @@ Bu projede, kardiyovasküler sağlığın izlenmesi ve teşhis edilmesi amacıyl
 
 ## Devre Şeması
 
-Devre şeması **/Resimler** klasöründe bulunmaktadır.
+![Devre Şeması](Resimler/devre_sematiği.jpeg)
 
 ## Kullanılan Malzemeler
 
@@ -34,7 +34,16 @@ Devre şeması **/Resimler** klasöründe bulunmaktadır.
 
 SpO2 için gerekli kütüphaneleri ekleyin. (Adafruit_Sensor, Adafruit_GFX, Adafruit_MAX30100)
 
-Geliştirilen yazılım **/kod** klasöründe verilmiştir.
+## KODLAR
+
+Aşağıda kodların ekran görüntüleri verilmiştir:
+
+![Kod Ekran Görüntüsü 1](Resimler/kod_ekran_goruntusu1.jpeg)
+
+![Kod Ekran Görüntüsü 2](Resimler/kod_ekran_goruntusu2.jpeg)
+
+![Kod Ekran Görüntüsü 3](Resimler/kod_ekran_goruntusu3.jpeg)
+
 
 ## Katkıda Bulunanlar
 
