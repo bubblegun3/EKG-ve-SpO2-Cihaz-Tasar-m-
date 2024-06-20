@@ -14,6 +14,8 @@ Bu projede, kardiyovasküler sağlığın izlenmesi ve teşhis edilmesi amacıyl
 
 ## Devre Şeması
 
+![Devre Şeması](EKG ve SpO2 devreleri.jpeg)
+
 Devre şeması **/Resimler** klasöründe bulunmaktadır.
 
 ## Kullanılan Malzemeler
