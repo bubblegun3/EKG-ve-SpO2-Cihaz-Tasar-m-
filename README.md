@@ -6,36 +6,37 @@ Bu projede, kardiyovasküler sağlığın izlenmesi ve teşhis edilmesi amacıyl
 
 ## Özellikler
 
-Taşınabilir EKG ölçümü
-Anlık nabız ölçümü
-Kandaki oksijen yoğunluğunun (SpO2) ölçülmesi
-Kullanıcı dostu tasarım
-Gerçek zamanlı veri görüntüleme
+-Taşınabilir EKG ölçümü
+-Anlık nabız ölçümü
+-Kandaki oksijen yoğunluğunun (SpO2) ölçülmesi
+-Kullanıcı dostu tasarım
+-Gerçek zamanlı veri görüntüleme
 
 ## Devre Şeması /Resimler klasöründe bulunmaktadır.
 
 ## Kullanılan Malzemeler
 ## EKG Devresi için:
 
-AD620 Enstrümantasyon Yükselteci
-LM741 Opamp
-9V Pil
-Elektrot ve EKG Kablosu
-3.5mm Stereo Dişi Jack Girişi
-Kapasitörler ve Dirençler
-DSO138 Osiloskop
+-AD620 Enstrümantasyon Yükselteci
+-LM741 Opamp
+-9V Pil
+-Elektrot ve EKG Kablosu
+-3.5mm Stereo Dişi Jack Girişi
+-Kapasitörler ve Dirençler
+-DSO138 Osiloskop
 
 ## SpO2 Devresi için:
 
-MAX30100 Sensörü
-Arduino Nano
-0.91” OLED Ekran
+-MAX30100 Sensörü
+-Arduino Nano
+-0.91” OLED Ekran
 
-SpO2 için gerekli kütüphaneleri ekleyin. (Adafruit_Sensor, Adafruit_GFX, Adafruit_MAX30100)
+SpO2 için gerekli kütüphaneleri ekleyin. (Adafruit_Sensor, Adafruit_GFX Adafruit_MAX30100)
+
 Geliştirilen yazılım /kod klasöründe verilmiştir.
 
 ## Katkıda Bulunanlar
 
-Nafiye Melisa ÖZTÜRK 
-Beyhan Kadir TURGUT 
-Prof. Dr. Mehmet Recep BOZKURT
+-Nafiye Melisa ÖZTÜRK 
+-Beyhan Kadir TURGUT 
+-Prof. Dr. Mehmet Recep BOZKURT
