@@ -12,11 +12,11 @@ Kandaki oksijen yoğunluğunun (SpO2) ölçülmesi
 Kullanıcı dostu tasarım
 Gerçek zamanlı veri görüntüleme
 
-## Devre Şeması /şematik klasöründe bulunmaktadır.
+## Devre Şeması /Resimler klasöründe bulunmaktadır.
 
 ## Kullanılan Malzemeler
+## EKG Devresi için:
 
-# EKG Devresi için:
 AD620 Enstrümantasyon Yükselteci
 LM741 Opamp
 9V Pil
@@ -25,7 +25,8 @@ Elektrot ve EKG Kablosu
 Kapasitörler ve Dirençler
 DSO138 Osiloskop
 
-# SpO2 Devresi için:
+## SpO2 Devresi için:
+
 MAX30100 Sensörü
 Arduino Nano
 0.91” OLED Ekran
